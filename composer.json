@@ -1,0 +1,23 @@
+{
+    "name": "dboldbaatar/laravelodoo",
+    "description": "laravel odoo",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dboldbaatar\\Odoo\\": "src/"
+        },
+        "files": [
+            "src/Support/helpers.php"
+        ],
+        "classmap": ["src/ripcord"]
+    },
+    "authors": [
+        {
+            "name": "Boldbaatar Dagvadorj",
+            "email": "dboldbaatar88@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": "^9.0"
+    }
+}
