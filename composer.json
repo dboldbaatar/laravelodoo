@@ -18,6 +18,7 @@
         }
     ],
     "require": {
-        "illuminate/support": "^9.0"
+        "illuminate/support": "^9.0",
+        "illuminate/support": "^10.0"
     }
 }
